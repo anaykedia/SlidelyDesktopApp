@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\anayk\\source\\repos\\slidelytask2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E4C11E21-8656-451A-A13D-8543C518E897}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "WinFormsApp2\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T10:43:41.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\CreateSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\CreateSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\CreateSubmissionsForm.vb",
+              "RelativeToolTip": "WinFormsApp2\\CreateSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T06:07:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T09:51:41.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Submission.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Submission.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Submission.vb",
+              "RelativeToolTip": "WinFormsApp2\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:17:25.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T05:54:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\CreateSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\CreateSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\CreateSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\CreateSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T06:06:08.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "C:\\Users\\anayk\\source\\repos\\slidelytask2\\WinFormsApp2\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T05:46:46.94Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
